@@ -6,7 +6,10 @@ body {
 	background-image: url( '../img/back9.jpg' );
 }
 
-
+h5 {
+	margin: 7px;
+	font-weight: bold;
+}
 .span2 > #avatar {
 	border: 2px solid #CDCDCD;
 	border-radius:3px;
